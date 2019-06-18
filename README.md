@@ -7,9 +7,9 @@ and Client.py parses and outputs data to vMix Pro.
 The following features are implemented:
 1. Display Smoke of Deceit
 2. Aegis Display
-![2_text](Screenshots/Capture2.png)
+![2_text](https://github.com/heycarl/Dota_Overlay/blob/master/Screenshots/Capture2.PNG)
 3. Display statistics for the selected hero
-![3 text](Screenshots/Capture.png)
+![3 text](https://github.com/heycarl/Dota_Overlay/blob/master/Screenshots/Capture.PNG)
 
 # `Russian language`
 
@@ -19,6 +19,6 @@ The following features are implemented:
 Реализованы следующие фитчи:
 1. Отображение Smoke of Deceit
 2. Отображение Aegis
-![2_text](Screenshots/Capture2.png)
+![2_text](https://github.com/heycarl/Dota_Overlay/blob/master/Screenshots/Capture2.PNG)
 3. Отображение статистики выбранного героя
-![3_text](Screenshots/Capture.png)
+![3_text](https://github.com/heycarl/Dota_Overlay/blob/master/Screenshots/Capture.PNG)
