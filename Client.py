@@ -1,3 +1,5 @@
+#  Copyright 2019 by Efimchik Alexandr
+
 import requests
 import json
 import variables
@@ -108,3 +110,6 @@ thread1.join()
 thread2.join()
 thread3.join()
 thread4.start()
+
+# TODO: Node Cg integration
+# TODO: Fix updating data in ststs function

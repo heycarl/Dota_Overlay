@@ -1,6 +1,5 @@
 from flask import Flask, request
 import json
-import variables
 
 app = Flask(__name__)
 
@@ -11,5 +10,4 @@ def result():
     return 'Received !'  # response to your request.
 
 
-if __name__ == '__main__':
-    app.run(host='127.0.0.1', port=3000)
+app.run(host='127.0.0.1', port=3000)
